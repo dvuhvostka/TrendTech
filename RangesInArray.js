@@ -40,6 +40,5 @@ class RangesInArray {
     }
 }
 
-module.exports = { 
-    RangesInArray 
-};
+
+module.exports = RangesInArray;
